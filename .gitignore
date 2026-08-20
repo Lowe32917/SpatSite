@@ -1,0 +1,48 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+# Python environment folders
+.env
+.venv/
+venv/
+env/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Archive files
+*.tar.gz
+*.zip
+*.tar
+*.gz
+
+# Root
+*.sh
+*.out
+
+# Model checkpoints
+checkpoints/**
+!checkpoints/
+!checkpoints/models/
+!checkpoints/models/**
+
+# Data files
+data/*.log
+data/**/*.log
+data/*.pt
+data/**/*.pt
+
+# Result files
+results/**
+!results/
+
+
