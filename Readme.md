@@ -167,18 +167,9 @@ Prediction results will be saved under:
 results/
 ```
 
-## Citation
+## Contact 
+Any questions, problems, or bugs are welcome and should be reported to [Bingqiang Liu](bingqiang@sdu.edu.cn) or [Yuntao Liu](sdyt_lty@163.com).
 
-If you use this code, please cite our paper:
-
-```bibtex
-@article{!!!!!!},
-  title={!!!!!!},
-  author={!!!!!!},
-  journal={!!!!!!},
-  year={!!!!!!}
-}
-```
 
 ## License
 
