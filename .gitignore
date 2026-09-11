@@ -36,10 +36,13 @@ checkpoints/**
 !checkpoints/models/**
 
 # Data files
-data/*.log
-data/**/*.log
-data/*.pt
-data/**/*.pt
+data/**
+!data/example/
+!data/example/**
+data/example/*.pt
+data/example/**/*.pt
+data/example/*.log
+data/example/**/*.log
 
 # Result files
 results/**
